@@ -1,7 +1,8 @@
 ### Hi there👋 I am Hyunji Kim✨
 
-​:woman_student:​ Bachelor's degree in Urban Sociology & International Urban Development
-​:computer:​ I’m currently learning ... Python & Django
+#### ​:woman_student:​ Bachelor's degree in Urban Sociology & International Urban Development
+
+#### ​:computer:​ I’m currently learning ... Python & Django
 
 <!--
 **kmhyunji/kmhyunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
